@@ -1,0 +1,77 @@
+#intro{
+    background-color: black;
+    color: white;
+}
+.main{
+    text-align: center;
+    padding: 3% 20% 10%;
+}
+
+.navbar{
+background-color: black;
+
+} 
+
+.navbar-brand{
+    margin-left: 3%;
+}
+
+
+h1{
+    font-size: 5rem;
+    font-weight: 700;
+    font-family: "montserrat",sans-serif;
+}
+h2{
+    font-size: 3rem;
+    font-weight: 700;
+    font-family: "montserrat",sans-serif;  
+}
+.main-img{
+    width:60%;
+}
+
+#testimonials{
+text-align: center;
+background-color: white;
+color: black;
+}
+.r1{
+    width: 42%;
+}
+.r2{
+    width: 72%;
+}
+.r3{
+width: 49%;
+}
+.carousel-item{
+    padding: 7% 20%;
+}
+
+
+#contact{
+    padding: 5% 15%;
+    color: white;
+    background-color: black;
+    text-align: center;
+}
+hr{
+    width: 100%;
+    background-color: white;
+}
+.a{
+    margin: 2% 2%;
+    color: white;
+}
+
+
+@media (max-width: 1028px)
+{
+    h1{
+font-size: 2.4rem;
+    }
+    h2{
+        font-size: 1.6rem;
+    }
+}
